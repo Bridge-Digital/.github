@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ik.imagekit.io/bdtivustron/social_media_bg.jpg" width="auto" height="auto" />
+  <img src="https://ik.imagekit.io/bdtivustron/images/bg.jpg" width="auto" height="auto" />
 </div>
 
  <div align="center">
